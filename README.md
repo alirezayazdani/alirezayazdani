@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @alirezayazdani
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning all the time Machine Learning
-- 💞️ I’m looking to collaborate on deep learning
+A simple example of the function of the while loop
 - 📫 How to reach me yazdania14@gmail.com
 
 <!---
